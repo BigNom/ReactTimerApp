@@ -10,7 +10,7 @@ var Navigation = () => {
               React Timer App
             </li>
             <li>
-              <IndexLink to="/" actiuveClassName="active-link">Timer</IndexLink>
+              <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
             </li>
             <li>
               <Link to="/countdown" activeClassName="active-link">Countdown</Link>
